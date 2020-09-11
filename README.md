@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋
 
 <!--
 **FTFX/FTFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🔧 Currently working on
+- An open source project
+
+#### 🌱 Currently learning
+- C++
+- Rust
+- Algorithm
+- Go
+
+#### 🔭 Skills
+- C
+- Java
+- Linux Operations
+- Docker
+- HTML/CSS/JavaScript
